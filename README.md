@@ -1,7 +1,7 @@
 <html>
   <head> <style>
 body {
-  background-color: #ADD8E6;
+  background-color: #FFF917;
 }
   </head>
   <body>
