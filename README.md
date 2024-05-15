@@ -6,7 +6,7 @@
       <li>200m Workout</li>
       <ul>
         <li>Sprint100m</li>
-        <li>Walk/Jog 100m/li>
+        <li>Walk/Jog 100m</li>
         <li>Repeat 3x</li>
 </ul>
 <br>
