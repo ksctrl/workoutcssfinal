@@ -1,5 +1,9 @@
 <html>
-  <head></head>
+  <head><style>
+body {
+  background-color: #ADD8E6;
+}
+  </head>
   <body>
     <h1> Workout Ideas & Plans </h1>
 <ul>
