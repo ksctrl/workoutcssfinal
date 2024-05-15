@@ -1,5 +1,5 @@
 <html>
-  <head><style>
+  <head> <style>
 body {
   background-color: #ADD8E6;
 }
