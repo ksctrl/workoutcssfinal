@@ -13,7 +13,7 @@
       <li>400m Workout</li>
       <ul>
         <li>Sprint 100m</li>
-        <li>Walk/Jog 200m/li>
+        <li>Walk/Jog 200m</li>
         <li>Sprint 100m</li>
         <li>Repeat 2x</li>
 </ul>
